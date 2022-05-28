@@ -26,8 +26,8 @@ Hi! Information systems student
   ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="600em" src="https://github-readme-stats.vercel.app/api?username=FernandoValentim43&show_icons=true&theme=vision-friendly-dark%22 alt="Fernando's stats"/>
-<img width="60em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoValentim43&layout=compact&theme=vision-friendly-dark" alt="Fernando's most languages"/>
+<img width="50%" src="https://github-readme-stats.vercel.app/api?username=FernandoValentim43&show_icons=true&theme=vision-friendly-dark%22 alt="Fernando's stats"/>
+<img width="50%em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoValentim43&layout=compact&theme=vision-friendly-dark" alt="Fernando's most languages"/>
 </p>
 
   
