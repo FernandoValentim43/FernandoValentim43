@@ -1,6 +1,13 @@
 ### 👋
 Hi! Information systems student
-Currently learning technologies and frameworks based on Front-end JS and Object Oriented Proaming with Java
+
+### 👨🏻‍💻 &nbsp; I'm currently...
+
+  - Improving my React Native skills.
+  - Learning to develop Mobile-first web-apps.
+  - Learning Redux with React and React Native.
+  - Adding databases to my skill set.
+  - Aspiring to learn about the backend technologies
 
 ### 🔧 &nbsp; Technologies & Tools...
 <p align="center">
@@ -19,8 +26,8 @@ Currently learning technologies and frameworks based on Front-end JS and Object 
   ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=maykbrito&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maykbrito&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=FernandoValentim43&show_icons=true&theme=vision-friendly-dark%22 alt="maykbrito's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoValentim43&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
 </p>
 
   
