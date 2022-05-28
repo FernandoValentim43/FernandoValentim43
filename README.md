@@ -3,18 +3,18 @@ Hi! Information systems student
 
 ### 👨🏻‍💻 &nbsp; I'm currently...
 
-  - Improving my React Native skills.
-  - Learning to develop Mobile-first web-apps.
-  - Learning Redux with React and React Native.
-  - Adding databases to my skill set.
-  - Aspiring to learn about the backend technologies
+  - Studying JavaScript.
+  - Improving my CSS Knowledge with SASS.
+  - Learning OOP and Data Structures with JAVA
+  - Learning React.js.
+  - Adding mySQL to my skill set.
 
 ### 🔧 &nbsp; Technologies & Tools...
 <p align="center">
 
   <!-- For more icons like these follow : https://github.com/MikeCodesDotNET/ColoredBadges -->
 
- <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/frameworks/%20reactnative.svg" alt="react" style="vertical-align:top; margin:4px">
+ ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:4px">
  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
