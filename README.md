@@ -11,7 +11,7 @@ Currently learning technologies and frameworks based on Front-end JS and Object 
  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:4px">
  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
- <img src="https://github.com/MikeCodesDotNET/ColoredBadges/edit/master/svg/dev/tools/eclipse.svg" alt="eclipse" style="vertical-align:top; margin:4px">
+ <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/tools/eclipse.svg" alt="eclipse" style="vertical-align:top; margin:4px">
 
   
   
