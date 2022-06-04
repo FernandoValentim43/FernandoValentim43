@@ -4,7 +4,7 @@ Hi! Information systems student
 ### 👨🏻‍💻 &nbsp; I'm currently...
 
   - Studying JavaScript.
-  - Improving my CSS Knowledge with SASS.
+  - Improving my CSS Knowledge to build better User Interfaces
   - Learning OOP and Data Structures with JAVA
   - Learning React.js.
   - Adding mySQL to my skill set.
@@ -20,6 +20,7 @@ Hi! Information systems student
  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
  ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
  ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+  <img src="svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:6px 4px">
   
   
   
