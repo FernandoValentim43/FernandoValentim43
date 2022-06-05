@@ -20,8 +20,7 @@ Hi! Information systems student
  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
  ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
  ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-  https://img.shields.io/badge/-ReactJS
-  
+ ![ReactJs](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white)
   
   
   ## ⚙️ &nbsp;GitHub Analytics
