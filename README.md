@@ -3,10 +3,9 @@ Hi! Information systems student
 
 ### 👨🏻‍💻 &nbsp; I'm currently...
 
-  - Studying JavaScript.
-  - Improving my CSS Knowledge to build better User Interfaces
+  - Studying React.js and related stacks
+  - Improving my CSS Knowledge with Styled-Components
   - Learning OOP and Data Structures with JAVA
-  - Learning React.js and related stacks
   - Adding mySQL to my skill set.
 
 ### 🔧 &nbsp; Technologies & Tools...
